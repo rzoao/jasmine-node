@@ -4,3 +4,4 @@ before_install:
   - "-e /etc/init.d/xvfb start"
 node_js:
   -'node'
+dist: precise
